@@ -32,6 +32,7 @@ class Bird:
                 obstacle.width,
                 obstacle.height
             )):
+                python.quit() #You had this in an earlier version you must have deleted it on accident!!!
                 
         
 class ObstaclesManager:
